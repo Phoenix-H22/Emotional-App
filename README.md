@@ -1,5 +1,5 @@
 ## Emotional App
-App To Help The Disapled Using AI, Flutter and Tensorflow
+App To Help The Disabled Using AI, Flutter, and Tensorflow using Image detection to know the person's emotional case in front of the camera.
 
 
 ## Run the Flutter app locally
